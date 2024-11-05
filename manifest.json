@@ -1,6 +1,6 @@
 {
     "name": "Your App Name",
-    "short_name": "my App",
+    "short_name": "your App",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
@@ -16,6 +16,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "splash_pages": null
+    ]
 }
